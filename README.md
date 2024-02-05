@@ -1,2 +1,2 @@
-# Ziraf420-GoldChallangeDSC-Wave17
+# 231200007-17-Far-hate-speech_Gold
 Gold Challange Data Science Binar Academy - Wave 17 - Muhammad Fariz Luthfi
